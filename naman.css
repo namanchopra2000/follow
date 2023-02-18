@@ -1,0 +1,24 @@
+#a1{
+    background-color: white;
+    color:red; 
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: -1px;
+}
+
+#nav-link:hover{
+    background-color: white;
+    color: black;
+
+}
+*{
+    font-family: 'Lilita One', 'cursive';
+    color:#110f2a;
+}
+option{
+    background-color: white;
+}
+#homepageenquiry{
+    background-color: #da3722;
+color: rgb(237, 229, 229);
+}
